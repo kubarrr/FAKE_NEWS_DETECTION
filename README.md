@@ -6,7 +6,7 @@ Dataset: [Fake News Dataset Combined Different Sources | Kaggle](https://www.kag
 <br />
 
 ## Technologies:
-pandas, numpy, sckit-learn, nltk, keras, tensorflow
+pandas, numpy, sckit-learn, nltk, keras, tensorflow, TfidfVectorizer
 
 <br />
 
