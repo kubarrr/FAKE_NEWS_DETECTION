@@ -3,6 +3,9 @@ Machine learning Python project about detecting fake news.
 
 Dataset: [Fake News Dataset Combined Different Sources | Kaggle](https://www.kaggle.com/datasets/mohammadaflahkhan/fake-news-dataset-combined-different-sources)
 
+![image](https://github.com/kubarrr/FAKE_NEWS_DETECTION/assets/100797029/e9ae2325-824c-4c17-a5ce-e61591630bfb)
+
+
 <br />
 
 ## Technologies:
